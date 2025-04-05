@@ -2,9 +2,13 @@
  I am a passionate **Data Science student** diving into the world of **code,data,and algorithms** . Currently, I'm learning :
  - **Python** for data analysis,automation, and ML
  - **R** for statistics and data visualization
-  👀 What I'm Working On 
+   
+ 👀 What I'm Working On :
+ 
  -Building mini projects in Python(like data visualization & small ML models)
+ 
  -Exploirng open datasets to practice data wrangling and EDA
+ 
  -Learning Git & Github for version control and collaboration
   
 
